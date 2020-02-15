@@ -10,9 +10,10 @@ cache:
 node_js: stable
 
 install:
-  - npm install -D
+  - cnpm install -D
   - cd ./test/smoke/template
-  - npm install -D
+  - cnpm install -D
+  - cd ../../../
 
 scripts:
-  - npm test
+  - cnpm test
