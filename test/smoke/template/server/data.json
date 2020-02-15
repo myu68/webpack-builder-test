@@ -1,0 +1,72 @@
+{
+  "error": [],
+  "extra": [],
+  "data": {
+    "list": [
+      {
+        "banner_redirect_type": "product",
+        "id": 7034,
+        "banner_utm_term": "banner1880",
+        "extra": {
+          "column_sku": "100046101",
+          "column_type": 1,
+          "product_type": "c1",
+          "column_id": 279,
+          "had_sub": false
+        },
+        "banner_cover": "https:\/\/static001.geekbang.org\/resource\/image\/b7\/af\/b771aea8abca2e1d1b3e4b84437329af.jpg",
+        "banner_redirect_param": "100046101",
+        "banner_title": "2.11第一轮播图-分布式协议与算法实战",
+        "score": 3824102243840
+      },
+      {
+        "banner_cover": "https:\/\/static001.geekbang.org\/resource\/image\/eb\/f5\/eb4d7697eedda5a8ab4a7d124ca4c3f5.jpg",
+        "banner_redirect_type": "mall",
+        "banner_redirect_param": "https:\/\/shop18793264.m.youzan.com\/v2\/feature\/Jar0UEZdqv",
+        "banner_title": "2.11第二轮播图-商城活动",
+        "score": 3819807276544,
+        "banner_utm_term": "banner1881",
+        "id": 7035
+      },
+      {
+        "banner_redirect_type": "product",
+        "id": 7036,
+        "banner_utm_term": "banner1882",
+        "extra": {
+          "column_sku": "100043001",
+          "column_type": 1,
+          "product_type": "c1",
+          "column_id": 267,
+          "had_sub": false
+        },
+        "banner_cover": "https:\/\/static001.geekbang.org\/resource\/image\/ef\/69\/ef4544b3589f5e87a497bc25fce9e969.png",
+        "banner_redirect_param": "100043001",
+        "banner_title": "2.11第三轮播图-摄影课程",
+        "score": 3815512309248
+      },
+      {
+        "banner_cover": "https:\/\/static001.geekbang.org\/resource\/image\/97\/8a\/97bd6bbd8edc9978999d5dc79bc4278a.jpg",
+        "banner_redirect_type": "article",
+        "banner_redirect_param": "195828",
+        "banner_title": "2.11第四轮播图-企业账号",
+        "score": 3811217341952,
+        "banner_utm_term": "banner1883",
+        "id": 7037
+      },
+      {
+        "banner_cover": "https:\/\/static001.geekbang.org\/resource\/image\/27\/9c\/27cc130779869377b0e634661e5fef9c.png",
+        "banner_redirect_type": "url",
+        "banner_redirect_param": "https:\/\/u.geekbang.org\/subject\/fe\/100044701?utm_source=time_app&utm_medium=banner5&utm_term=timeappbanner5",
+        "banner_title": "2.11第五轮播图-极客大学",
+        "score": 3806922374656,
+        "banner_utm_term": "banner1884",
+        "id": 7038
+      }
+    ],
+    "page": {
+      "count": 5,
+      "more": false
+    }
+  },
+  "code": 0
+}
